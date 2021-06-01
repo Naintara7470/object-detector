@@ -1,0 +1,12 @@
+.heading{
+    width: 100%;
+    margin: 0px; 
+    font-size: 30px;
+    color: crimson;
+    text-shadow: 2px 3px cyan;
+    box-shadow:5px 5px 5px darkcyan;
+    padding: 20px;
+}
+body{
+    background-size: cover;
+}
